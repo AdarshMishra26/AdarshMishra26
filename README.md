@@ -1,16 +1,26 @@
-### Hi there 👋
+# ADARSH MISHRA 🚀
 
-<!--
-**AdarshMishra26/AdarshMishra26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hey there! I'm Adarsh Mishra, a passionate full-stack developer with a love for crafting web applications and a diverse skill set in various programming languages and tools. Welcome to my GitHub universe! 🌌
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌐 Full-stack Developer
+- 💻 Always eager to learn and explore new technologies 🧠
+
+
+### My Tech Stack
+
+| **Programming Languages** | Python 🐍 | JavaScript 🚀 | C++ 🖥️ | C 📚 |
+|---------------------------|-----------|------------------|-------|-----|
+| **Web Technologies**       | Flask 🌐  | HTML 🕸️         | CSS 🎨 | React ⚛️ |
+| **Databases**              | SQL 🛢️    | MongoDB 🍃       |       |     |
+| **Other Skills**           | Git 🔄    | GitHub 🐙        | Node.js 🟩 | Express.js 🚂 |
+
+
+
+
+## Get in Touch
+
+- LinkedIn: [Adarsh Mishra](https://www.linkedin.com/in/adarshmishra26/)
+- Email: [adarshmishra2608@gmail.com](mailto:adarshmishra2608@gmail.com)
+
