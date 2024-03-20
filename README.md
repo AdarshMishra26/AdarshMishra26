@@ -21,9 +21,7 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AdarshMishra26&sideNums=9BEBE5)](https://git.io/streak-stats)
 
-## LinkedIn 
 
-<img src="[YOUR_VERCEL_PROJECT_DOMAIN]/[METHOD]?username=adarshmishra26" />
 
 ## Get in Touch
 
