@@ -17,7 +17,7 @@
 | **Other Skills**           | Git 🔄    | GitHub 🐙        | Node.js 🟩 | Express.js 🚂 |
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adarshmishra26&" alt="adarshmishra26" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdarshMishra26&sideNums=9BEBE5)](https://git.io/streak-stats)
 
 
 ## Get in Touch
