@@ -21,6 +21,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=AdarshMishra26&sideNums=9BEBE5)](https://git.io/streak-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmishra26&layout=compact)
+
 
 
 ## Get in Touch
