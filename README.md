@@ -19,9 +19,13 @@
 
 ### GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=AdarshMishra26&sideNums=9BEBE5)](https://git.io/streak-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adarshmishra26&layout=compact)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=AdarshMishra26" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdarshMishra26&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshmishra26&show_icons=true&theme=radical)
 
