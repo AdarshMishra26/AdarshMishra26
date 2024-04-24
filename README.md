@@ -26,8 +26,10 @@
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=AdarshMishra26&layout=compact&langs_count=8&card_width=320" />
 </a>
+<a href="https://git.io/streak-stats" target="_blank">
+  <img src="https://streak-stats.demolab.com?user=AdarshMishra26&theme=dark" alt="GitHub Streak" />
+</a>
 
-![Adarsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=adarshmishra26&show_icons=true&theme=radical)
 
 
 
